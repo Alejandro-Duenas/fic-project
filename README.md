@@ -5,6 +5,7 @@ Thus, the returns and risk are analized, compared between them, and finally comp
 
 The two ETFs analyzed are the  [SPY](https://en.wikipedia.org/wiki/SPDR_S%26P_500_Trust_ETF) and the [GXG](https://www.globalxetfs.com/funds/gxg/). 
 
+[Medium Article](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)
 
 
 ## Documentation
